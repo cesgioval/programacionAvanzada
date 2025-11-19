@@ -28,6 +28,3 @@ jobs:
 
     - name: Run Main
       run: java Main
-
-    - name: Run HolaMundo
-      run: java HolaMundo
