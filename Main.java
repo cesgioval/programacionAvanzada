@@ -43,6 +43,9 @@ public class Main {
 		String direccion = trabajo.direccion();
 		System.out.println("la dirección de trabajo es:  "+direccion+"");
 
+
+		//hola esto es una prueba
+
 	}
 }
 
