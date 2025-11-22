@@ -42,10 +42,6 @@ public class Main {
 		System.out.println("tiene el cargo   "+cargo+"");
 		String direccion = trabajo.direccion();
 		System.out.println("la dirección de trabajo es:  "+direccion+"");
-
-
-		//hola esto es una prueba
-
 	}
 }
 
